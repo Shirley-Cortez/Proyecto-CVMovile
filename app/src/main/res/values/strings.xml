@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CVMobileApp</string>
+    <string name="fecha">22 noviembre, 1978</string>
+    <string name="telefono">941594177</string>
+    <string name="casa">Lima, Peru</string>
+    <string name="email">shirleycoteza@gmail.com</string>
+
+    <string name="Experience">Experience</string>
+    <string name="allison">Allison </string>
+    <string name="background">Background</string>
+    <string name="education">Education</string>
+    <string name="developer">Estudiante de Senati</string>
+    <string name="description">Vendedora</string>
+
+</resources>
